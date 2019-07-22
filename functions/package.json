@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "url": "https://github.com/edwardchuang/cloudcdn-purge-pubsub",
   "dependencies": {
-    "googleapis": "^20.1.0",
+    "googleapis": "^41.0.1",
     "url": "^0.11.0"
   }
 }
